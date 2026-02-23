@@ -1,6 +1,6 @@
 import Home from "./HomePage/Home";
 import Task from "./TaskPage/Task";
-import { Navigate, Routes, Route, Link } from 'react-router-dom'
+import { Navigate, Routes, Route } from 'react-router-dom'
 
 const Router = () => {
 

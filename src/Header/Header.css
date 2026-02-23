@@ -1,0 +1,12 @@
+div {
+    background-color: pink;
+    min-height: 4rem;
+    line-height: 4rem;
+    color: white;
+    margin: 0;
+    display: flex;
+}
+
+.tab:hover {
+    background-color: rgb(152, 117, 123);
+}
